@@ -4,7 +4,7 @@ I’m Sahana, a passionate **Software Engineer** with 2.5+ years of experience s
 
 ---
 
-- 🔭 I’m currently working on **developing scalable React.js web applications for the electric power industry** at [Headrun Technologies](https://www.headrun.com/), where I lead a team of 4 developers.  
+- 🔭 I’m currently working on **developing scalable React.js web applications** at [Headrun Technologies](https://www.headrun.com/), where I lead a team of 4 developers.  
 - 👯 I’m looking to Full Time opportunities as mid level Front End Engineer (React/HTML/CSS,Javascript)
 - 🤔 I’m looking for help with **mastering advanced microservices architecture** and **contributing to large-scale distributed systems**.  
 - 💬 Ask me about **React.js**, **Redux**, **JavaScript best practices**, or **mentorship for junior developers**.  
